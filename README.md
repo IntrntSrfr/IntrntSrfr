@@ -1,6 +1,6 @@
 ## Hello, I'm Alex
 
-I'm studying to become a computer engineer. I like to make Discord bots using Golang, though I'd also like to look into some web development with React. 
+Computer engineering student. I like to make Discord bots using Golang, though I'd also like to look into some web development with React. 
 
 Discord: internet surfer#0001
 
