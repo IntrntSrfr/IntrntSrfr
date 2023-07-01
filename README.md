@@ -1,9 +1,8 @@
 ## Hello, I'm Alex
 
-Computer engineering student. I enjoy making stuff. Ive looked at Discord bots, web development and other stuff
+NTNU BE CS graduate. I enjoy making stuff. I like solving problems.
 
 Discord: internet surfer#0001
-
 
 ![IntrntSrfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrntsrfr&count_private=true&show_icons=true&theme=radical)
 
