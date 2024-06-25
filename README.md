@@ -1,6 +1,6 @@
 ## Hello, I'm Alex
 
-NTNU BE CS graduate. I like solving problems, and creating yet side projects that'll never finish.
+NTNU BE CS graduate. I like solving problems, and creating side projects that'll never finish.
 
 Discord: internetsurfer
 
