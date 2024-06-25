@@ -1,9 +1,7 @@
 ## Hello, I'm Alex
 
-NTNU BE CS graduate. I enjoy making stuff. I like solving problems.
+NTNU BE CS graduate. I like solving problems, and creating yet side projects that'll never finish.
 
 Discord: internetsurfer
-
-![IntrntSrfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrntsrfr&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrntsrfr&hide=jupyter%20notebook&theme=radical)
